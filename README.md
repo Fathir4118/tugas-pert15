@@ -12,10 +12,10 @@ MATKUL : BAHASA PEMROGRAMAN
 ![gambar](https://github.com/Fathir4118/Praktikum-6/blob/main/Gambar/Screenshot%202024-12-24%20062030.png)
 
 # validasi.py
+''' phyton
 def validasi_input():
     """
     Fungsi untuk memvalidasi input data pendaftaran.
-
     Returns:
         bool: True jika semua input valid, False jika ada input yang tidak valid.
     """
@@ -23,17 +23,14 @@ def validasi_input():
     if not nama.replace(" ", "").isalpha():
         print("Nama harus hanya berisi huruf dan spasi.")
         return False
-
     nomor_telepon = input("Masukkan nomor telepon: ")
     if not nomor_telepon.isdigit() or len(nomor_telepon) < 10:
         print("Nomor telepon harus hanya berisi angka dan minimal 10 digit.")
         return False
-
     email = input("Masukkan email: ")
     if "@" not in email or "." not in email.split("@")[-1]:
         print("Email harus memiliki format yang benar, mengandung karakter '@' dan domain valid (misalnya, .com).")
         return False
-
     return True
 
 if __name__ == "__main__":
