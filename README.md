@@ -11,8 +11,6 @@ MATKUL : BAHASA PEMROGRAMAN
 
 ![gambar](https://github.com/Fathir4118/Praktikum-6/blob/main/Gambar/Screenshot%202024-12-24%20062030.png)
 
-# CODE PROGRAM TERSEBUT
-
 # validasi.py
 def validasi_input():
     """
