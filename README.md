@@ -1,4 +1,4 @@
-# Praktikum-6
+# validasi
 NAMA : Muhammad Fathir Nurcholish
 
 KELAS : TI.24.A.4
