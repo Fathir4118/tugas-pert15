@@ -46,4 +46,4 @@ if __name__ == "__main__":
 
 # HASIL PROGRAM TERSEBUT
 
-![gambar](https://github.com/Fathir4118/Praktikum-6/blob/main/Gambar/IMG_20250106_102541.jpg) 
+![gambar](https://github.com/Fathir4118/tugas-pert15/blob/main/Gambar/IMG_20250106_102541.jpg) 
